@@ -31,12 +31,12 @@ requirements:
     - r-xml
     - r-chron
     - r-dplyr >=0.3
-    - r-gdata
     - r-gender >=0.5.1
     - r-ggplot2 >=2.1.0
     - r-gridextra
     - r-igraph
     - r-opennlp >=0.2_1
+    - r-openxlsx
     - r-plotrix
     - r-qdapdictionaries >=1.0.2
     - r-qdapregex >=0.1.2
@@ -48,7 +48,6 @@ requirements:
     - r-tm >=0.7.6
     - r-venneuler
     - r-wordcloud
-    - r-xlsx
   run:
     - r-base
     - r-nlp
@@ -57,12 +56,12 @@ requirements:
     - r-xml
     - r-chron
     - r-dplyr >=0.3
-    - r-gdata
     - r-gender >=0.5.1
     - r-ggplot2 >=2.1.0
     - r-gridextra
     - r-igraph
     - r-opennlp >=0.2_1
+    - r-openxlsx
     - r-plotrix
     - r-qdapdictionaries >=1.0.2
     - r-qdapregex >=0.1.2
@@ -74,7 +73,6 @@ requirements:
     - r-tm >=0.7.6
     - r-venneuler
     - r-wordcloud
-    - r-xlsx
 
 test:
   commands:
